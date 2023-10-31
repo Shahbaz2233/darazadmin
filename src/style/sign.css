@@ -1,0 +1,59 @@
+
+
+.register3{
+    float: right;
+    margin-top: 15px
+}
+
+.formdiv1{
+    color: white;
+}
+
+.register1{
+    color: rgb(160, 125, 36);
+}
+
+.e-address1{
+    border: 1px solid white;
+    border-radius: 25px;
+    height: 50px;
+
+}
+
+.e-address1 input{
+    border-radius: 25px;
+    min-height: auto;
+    height: 100%;
+    border: none;
+    padding: 12px 2.75rem;
+    background: transparent !important;
+    transition: all .2s linear !important;
+}
+.e-address1 input,::placeholder{
+    color: rgb(193, 187, 187) !important;
+}
+
+.remember-bodr1{
+    border-radius: 1.25em !important;
+}
+
+.forgot-clr1{
+    color: white !important;
+    text-decoration: none;
+}
+
+.remember-clr1{
+    color: rgb(160, 125, 36);
+}
+
+.login-clr1{
+    color: black;
+    background-color: white;
+    border-radius: 0px 3px 8px 3px black;
+}
+
+.login-clr1:hover{
+    color: white;
+    background-color:rgb(160, 125, 36);
+    
+}
