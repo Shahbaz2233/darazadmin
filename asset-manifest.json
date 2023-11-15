@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/darazadmin/static/css/main.a43781fe.css",
-    "main.js": "/darazadmin/static/js/main.3be524e7.js",
+    "main.js": "/darazadmin/static/js/main.e45a4a69.js",
     "static/media/Shoppix-01.png": "/darazadmin/static/media/Shoppix-01.4f4f99c5bc210b0e3d9c.png",
     "index.html": "/darazadmin/index.html",
     "main.a43781fe.css.map": "/darazadmin/static/css/main.a43781fe.css.map",
-    "main.3be524e7.js.map": "/darazadmin/static/js/main.3be524e7.js.map"
+    "main.e45a4a69.js.map": "/darazadmin/static/js/main.e45a4a69.js.map"
   },
   "entrypoints": [
     "static/css/main.a43781fe.css",
-    "static/js/main.3be524e7.js"
+    "static/js/main.e45a4a69.js"
   ]
 }
