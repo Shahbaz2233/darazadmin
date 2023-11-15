@@ -15,7 +15,7 @@ const App = () => {
 
 return (
     <div>
-      <Router>
+      <Router basename="/darazadmin">
         <Routes><Route path="/user" element={<User />}/></Routes>
         <Routes><Route path="/categories" element={<Categories />}/></Routes>
         <Routes><Route path="/products" element={<Products />}/></Routes>

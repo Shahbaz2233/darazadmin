@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import "../../style/sign.css";
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import AdminNavbar from './adminNavbar';
-import formImage from "../../asset/images/formImage.jpg";
+// import AdminNavbar from './adminNavbar';
+// import formImage from "../../asset/images/formImage.jpg";
 import { Baseurl } from '../Baseurl';
 import { Vortex } from 'react-loader-spinner';
 
