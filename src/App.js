@@ -20,7 +20,7 @@ return (
         <Routes><Route path="/categories" element={<Categories />}/></Routes>
         <Routes><Route path="/products" element={<Products />}/></Routes>
         <Routes><Route path="/order" element={<Orders />}/></Routes>
-        <Routes><Route path="/" element={<AdminLogin />}/></Routes>
+        <Routes><Route path="/darazadmin" element={<AdminLogin />}/></Routes>
       </Router>
       
     </div>
